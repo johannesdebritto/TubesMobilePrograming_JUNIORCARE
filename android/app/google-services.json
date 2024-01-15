@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368712685742",
+    "project_id": "apotek-4068b",
+    "storage_bucket": "apotek-4068b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368712685742:android:5fd98534751a883d76753f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_kesehatan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjUwt49KwGDxSMY7ci3-zipJ-37bKT2Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
