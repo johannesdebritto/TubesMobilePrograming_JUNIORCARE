@@ -1,7 +1,7 @@
 # MobilePrograming_JUNIORCARE
 | Gambar 1 | Gambar 2 |
 |----------|----------|
-| ![](assets/images/screen.jpg) | ![](assets/images/lobby.jpg) |
+| ![](assets/image/screen.jpg) | ![](assets/image/lobby.jpg) |
 
 ## 📌 Deskripsi
 **MobilePrograming_JUNIORCARE** adalah aplikasi mobile sederhana berbasis **Flutter** dan **Dart** yang dirancang untuk memudahkan pengguna dalam melakukan pemesanan obat. Aplikasi ini menggunakan **Shared Preferences** untuk menyimpan data pemesanan secara lokal tanpa memerlukan database online.
